@@ -1,0 +1,3 @@
+user-agent: *
+disallow: /proyectos-sin-confirmar/
+Sitemap:http://eduardcolmenares.com/arch/sitemap.xml
